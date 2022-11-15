@@ -692,9 +692,9 @@ p {
   margin-right: 93px;
 }
 
-/* .item-footer .title-socials { */
-/* margin-bottom: 20px; */
-/* } */
+.item-footer:nth-child(3) {
+  margin-left: auto;
+}
 
 .input-btn {
   display: flex;
